@@ -1,0 +1,74 @@
+[
+    {
+        "marque;modele;moteur;couleur;energie": "Toyota;Prius;Hybride;Argent;Essence\/Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Tesla;Model S;Électrique;Rouge;Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "BMW;3 Series;Essence;Noir; Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Ford;Mustang;Essence;Bleu;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Audi;A4;Diesel;Blanc;Diesel"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Mercedes-Benz;E-Class;Hybride;Gris;Essence\/Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Nissan;Leaf;Électrique;Vert;Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Chevrolet;Volt;Hybride;Noir;Essence\/Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Honda;Civic;Essence;Rouge;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Volkswagen;Golf; Diesel; Gris;Diesel"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Hyundai;Kona Electric;Électrique;Bleu;Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Jaguar;I-PACE;Électrique;Noir;Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Kia;Soul EV;Électrique;Blanc;Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Porsche;Taycan;Électrique;Argent;Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Fiat;500;Essence;Rouge;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Volvo;XC90;Hybride;Gris;Essence\/Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Mazda;CX-5;Essence;Bleu;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Lexus;RX;Hybride;Noir;Essence\/Électricité"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Subaru;Outback;Essence;Vert;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Land Rover;Range Rover;Diesel;Marron;Diesel"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Volkswagen;Passat;Diesel;Gris;Diesel"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Volkswagen;Tiguan;Essence;Blanc;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Volkswagen;Golf GTI;Essence;Rouge;Essence"
+    },
+    {
+        "marque;modele;moteur;couleur;energie": "Volkswagen;Polo;Essence;Bleu;Essence"
+    }
+]
