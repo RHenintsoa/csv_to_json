@@ -7,6 +7,6 @@ while (($line = fgetcsv($openfile,1000)) !== false){
     $data[] = array_combine($header,$line);
 }
 fclose($openfile);
-// var_dump($data);
+
 $fileToJson = json_encode($data,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 file_put_contents('data.json',$fileToJson);
